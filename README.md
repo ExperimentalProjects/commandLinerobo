@@ -1,13 +1,13 @@
 # commandLinerobo
 
 
-#To run locally 
+# To run locally 
 
 `npm install`
 
 `npm start`
 
-#Run from npm package 
+# Run from npm package 
 
 install `npm i value3-robo -g`
 
